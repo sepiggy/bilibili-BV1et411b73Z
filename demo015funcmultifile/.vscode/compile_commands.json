@@ -1,0 +1,11 @@
+[
+{
+  "directory": "/home/jms/lang/cpp/bilibili-BV1et411b73Z/demo015funcmultifile",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-I/usr/include", "-I/usr/local/include", "-Isrc/include", "-o", "build/.objs/demo015funcmultifile/linux/x86_64/release/src/swap.cpp.o", "src/swap.cpp"],
+  "file": "src/swap.cpp"
+},
+{
+  "directory": "/home/jms/lang/cpp/bilibili-BV1et411b73Z/demo015funcmultifile",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-I/usr/include", "-I/usr/local/include", "-Isrc/include", "-o", "build/.objs/demo015funcmultifile/linux/x86_64/release/src/main.cpp.o", "src/main.cpp"],
+  "file": "src/main.cpp"
+}]
