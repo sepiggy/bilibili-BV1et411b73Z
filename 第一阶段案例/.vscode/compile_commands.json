@@ -1,0 +1,6 @@
+[
+{
+  "directory": "/home/jms/lang/cpp/bilibili-BV1et411b73Z/demo027addressbook",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-Isrc/include", "-o", "build/.objs/demo027addressbook/linux/x86_64/src/main.cpp.o", "src/main.cpp"],
+  "file": "src/main.cpp"
+}]
